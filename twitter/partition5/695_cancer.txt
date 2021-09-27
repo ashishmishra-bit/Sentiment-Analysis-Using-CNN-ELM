@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="It&#39;s #FashionablyDelicious #oakville #cancer #fundraiser" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/1c9d3c0a373a11e2ab4322000a1fa430_7.jpg" />
+    <meta property="og:description" content="rumbleth's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdwuNCu2yU/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+rumbleth
+Comment: 
+It&#39;s #FashionablyDelicious #oakville #cancer #fundraiser
+Comment Time: 
+datetime="2012-11-25T19:56:20+00:00">1w</time>

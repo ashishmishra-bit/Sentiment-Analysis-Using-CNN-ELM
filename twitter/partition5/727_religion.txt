@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="my little man rocking Burberry, True Religion and Olympics. 😍😊 sho cute." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage1.s3.amazonaws.com/cdb035aa373111e28ac522000a9f141e_7.jpg" />
+    <meta property="og:description" content="gelseyxo's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sdp6m7zYnl/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

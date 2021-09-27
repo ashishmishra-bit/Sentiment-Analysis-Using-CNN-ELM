@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Amanda Ben and I at Hyde UTD city v police" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage11.s3.amazonaws.com/337d941e370411e2901022000a9e13ab_7.jpg" />
+    <meta property="og:description" content="misskbarber's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdEju1w-Kz/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+misskbarber
+Comment: 
+Amanda Ben and I at Hyde UTD city v police
+Comment Time: 
+datetime="2012-11-25T13:37:22+00:00">1w</time>

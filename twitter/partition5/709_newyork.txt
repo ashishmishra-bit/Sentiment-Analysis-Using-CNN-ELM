@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="For the collection #hellokitty #newyork #shotglass" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/f3a402ce374411e2b62322000a9f12da_7.jpg" />
+    <meta property="og:description" content="kaylinnmariee4's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sd5mhwCNYQ/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+kaylinnmariee4
+Comment: 
+For the collection #hellokitty #newyork #shotglass
+Comment Time: 
+datetime="2012-11-25T21:13:28+00:00">1w</time>

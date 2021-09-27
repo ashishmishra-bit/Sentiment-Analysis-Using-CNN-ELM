@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="You know my religion. Drugs x Buddha" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage9.s3.amazonaws.com/6c5897f837f311e2bf8b22000a1fb004_7.jpg" />
+    <meta property="og:description" content="jedidiahpeace's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SgIh2-I6yx/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+jedidiahpeace
+Comment: 
+You know my religion. Drugs x Buddha
+Comment Time: 
+datetime="2012-11-26T18:02:55+00:00">1w</time>

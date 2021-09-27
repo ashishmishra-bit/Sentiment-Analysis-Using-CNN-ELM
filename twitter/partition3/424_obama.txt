@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Seasons greetings from the Obama family 🇺🇸" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/592ded70375a11e2a0d822000a1f9a12_7.jpg" />
+    <meta property="og:description" content="audragale's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeLIVBF8I4/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="This was ridiculous #blackfriday #line #shopping" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/3276d006359911e283e822000a1f8e5b_7.jpg" />
+    <meta property="og:description" content="1andonlyshy_'s photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SYbL3esRHk/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+1andonlyshy_
+Comment: 
+This was ridiculous #blackfriday #line #shopping
+Comment Time: 
+datetime="2012-11-23T18:12:05+00:00">1w</time>

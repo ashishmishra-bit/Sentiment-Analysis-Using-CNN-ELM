@@ -1,0 +1,34 @@
+Metadata 
+<meta property="og:title" content="#MemoriesIWontForget
+ - via @Team1DIndo"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bhrlqf"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bhrlqf"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="#MemoriesIWontForget
+" />
+<meta name="twitter:url" value="https://twitpic.com/bhrlqf" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bhrlqf.jpg" />
+
+  <meta name="twitter:image:width" value="612" />
+  <meta name="twitter:image:height" value="612" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@Team1DIndo" />
+<meta name="twitter:creator:id" value="161860249" />
+
+
+
+
+<!-- Our Stylesheets -->

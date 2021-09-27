@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#championsleague :Fans of galatasaraysk, don’t miss the chance to vote for Burak Yılmaz and get him in the http://t.co/KiV0B55y" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage5.instagram.com/f8df55323e4b11e288ea22000a1f9318_7.jpg" />
+    <meta property="og:description" content="dilaraburak17's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/S07XAqSRbZ/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="mi meet da police, mi meet da police" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage1.s3.amazonaws.com/b2e06f2c371011e2979f22000a1f8ae3_7.jpg" />
+    <meta property="og:description" content="itchspictures's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdOy94G1N9/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+itchspictures
+Comment: 
+mi meet da police, mi meet da police
+Comment Time: 
+datetime="2012-11-25T14:59:42+00:00">1w</time>

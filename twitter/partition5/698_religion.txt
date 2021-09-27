@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Dixie gurdwara in my textbook,world religion class ;) #uoft" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.s3.amazonaws.com/6d01cfa037dd11e288bf22000a9f13cb_7.jpg" />
+    <meta property="og:description" content="kirannchahal's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sf2gj8K9Bf/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

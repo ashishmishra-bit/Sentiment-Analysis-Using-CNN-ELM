@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="When I die bury me inside a lightning bolt ! #sandiego #charhers #boltman #bolts #sunday #football #NFL" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/42bcdd1e375311e29d6522000a9f134c_7.jpg" />
+    <meta property="og:description" content="left_i_lopez's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeFUutr4XQ/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

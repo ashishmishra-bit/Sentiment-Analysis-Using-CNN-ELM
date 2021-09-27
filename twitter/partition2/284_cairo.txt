@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="اخيييييييه هذا الي يرد الروح بالدراسه لاصار هالصندوق مجابلني وانا مجابلته #milk#cairo #egypt #october" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage2.s3.amazonaws.com/dffb3bbe372811e2882622000a1f985d_7.jpg" />
+    <meta property="og:description" content="latooka's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdimfsNOji/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

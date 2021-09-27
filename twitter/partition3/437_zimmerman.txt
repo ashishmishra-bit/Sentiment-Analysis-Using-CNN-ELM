@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Even Pau is like, huh?  - via @LastNameTurner"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/b81sm7"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/b81sm7"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Even Pau is like, huh? " />
+<meta name="twitter:url" value="https://twitpic.com/b81sm7" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/b81sm7.jpg" />
+
+  <meta name="twitter:image:width" value="510" />
+  <meta name="twitter:image:height" value="340" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@LastNameTurner" />
+<meta name="twitter:creator:id" value="18824893" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="farafesh" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage9.s3.amazonaws.com/42c07786370c11e28e2d22000a1fbe71_7.jpg" />
+    <meta property="og:description" content="amirzslim's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdLKSbrXOp/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+amirzslim
+Comment: 
+farafesh
+Comment Time: 
+datetime="2012-11-25T14:27:49+00:00">1w</time>

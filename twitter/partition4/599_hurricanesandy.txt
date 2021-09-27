@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="There are houses down all along the coast from #hurricanesandy. People are cleaning up in the background." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage11.s3.amazonaws.com/ea7ec06238c011e2bee422000a1fc31e_7.jpg" />
+    <meta property="og:description" content="takamineman's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Siw3mkPCwL/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+takamineman
+Comment: 
+There are houses down all along the coast from #hurricanesandy. People are cleaning up in the background.
+Comment Time: 
+datetime="2012-11-27T18:33:34+00:00">1w</time>

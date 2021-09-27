@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Bush was far more denigrated than Obama ~ #JEZEBEL #tcot #sgp #teaparty - via @TeriGFrazier"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgfrpi"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgfrpi"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Bush was far more denigrated than Obama ~ #JEZEBEL #tcot #sgp #teaparty" />
+<meta name="twitter:url" value="https://twitpic.com/bgfrpi" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgfrpi.jpg" />
+
+  <meta name="twitter:image:width" value="502" />
+  <meta name="twitter:image:height" value="615" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@TeriGFrazier" />
+<meta name="twitter:creator:id" value="139705116" />
+
+
+
+
+<!-- Our Stylesheets -->

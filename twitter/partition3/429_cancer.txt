@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="#Cancer-What would you wear if you went camping with Niall - via @1Dhoroscopes"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgfrvp"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgfrvp"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="#Cancer-What would you wear if you went camping with Niall" />
+<meta name="twitter:url" value="https://twitpic.com/bgfrvp" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgfrvp.jpg" />
+
+  <meta name="twitter:image:width" value="496" />
+  <meta name="twitter:image:height" value="435" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@1Dhoroscopes" />
+<meta name="twitter:creator:id" value="536686971" />
+
+
+
+
+<!-- Our Stylesheets -->

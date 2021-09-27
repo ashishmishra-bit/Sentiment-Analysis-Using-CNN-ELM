@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="19-05-12 #ChampionsOfEurope #CFC  #Munich #Champions #ChampionsLeague #Final #Legends" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage1.s3.amazonaws.com/2cf817d837d911e2917a22000a9f1587_7.jpg" />
+    <meta property="og:description" content="jennifer_ra's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SfzBu5nTW1/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

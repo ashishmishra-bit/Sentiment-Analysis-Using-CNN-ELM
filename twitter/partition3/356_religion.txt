@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Las cosas buenas cuestan, time and truth is my religion." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage4.s3.amazonaws.com/c403379c371211e2a58222000a1faf0b_7.jpg" />
+    <meta property="og:description" content="__lr's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdQfVYFaFM/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+__lr
+Comment: 
+Las cosas buenas cuestan, time and truth is my religion.
+Comment Time: 
+datetime="2012-11-25T15:15:08+00:00">1w</time>

@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Hoping to attend the &#039;making sense of the 2012 US election&#039; event on Wed 28 Nov, 1pm @livuni - via @gcgosling"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgnok0"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgnok0"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Hoping to attend the &#039;making sense of the 2012 US election&#039; event on Wed 28 Nov, 1pm @livuni" />
+<meta name="twitter:url" value="https://twitpic.com/bgnok0" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgnok0.jpg" />
+
+  <meta name="twitter:image:width" value="2448" />
+  <meta name="twitter:image:height" value="3264" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@gcgosling" />
+<meta name="twitter:creator:id" value="142621063" />
+
+
+
+
+<!-- Our Stylesheets -->

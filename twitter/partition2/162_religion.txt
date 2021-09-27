@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="I shit you not...most great brains in human history have been skeptical about religion &amp; God - via @Brasilmagic"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bg6okv"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bg6okv"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="I shit you not...most great brains in human history have been skeptical about religion &amp; God" />
+<meta name="twitter:url" value="https://twitpic.com/bg6okv" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bg6okv.jpg" />
+
+  <meta name="twitter:image:width" value="763" />
+  <meta name="twitter:image:height" value="960" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@Brasilmagic" />
+<meta name="twitter:creator:id" value="21833728" />
+
+
+
+
+<!-- Our Stylesheets -->

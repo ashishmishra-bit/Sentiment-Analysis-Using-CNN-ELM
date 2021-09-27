@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="A photo from @1957soo"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bham9n"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bham9n"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="" />
+<meta name="twitter:url" value="https://twitpic.com/bham9n" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bham9n.jpg" />
+
+  <meta name="twitter:image:width" value="600" />
+  <meta name="twitter:image:height" value="792" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@1957soo" />
+<meta name="twitter:creator:id" value="596237979" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="que tierno amor, mi devocion, viniste a ser mi religion, mi dulce sentimiento, de nada me arrepiento8~" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage4.s3.amazonaws.com/c4e3241c371f11e2adac22000a1fbe03_7.jpg" />
+    <meta property="og:description" content="giovannajro's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdbJFjJbaU/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

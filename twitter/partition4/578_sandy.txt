@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="New puppy... The day I go back to school #hurricane #sandy #rescue #Shepard #mix #cutest #puppy #dog #bro #bitch #northshore #animal #nsala #fetch" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/e6ed07c2375511e2a19522000a9f126b_7.jpg" />
+    <meta property="og:description" content="jak_jantzen's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeHfNqQ9wK/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Was bound to happen sooner or later #police #fivepointoh #mustang" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.s3.amazonaws.com/c730b796375811e2b55422000a9f1377_7.jpg" />
+    <meta property="og:description" content="chrisaikens's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeJ2AEEtLv/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+chrisaikens
+Comment: 
+Was bound to happen sooner or later #police #fivepointoh #mustang
+Comment Time: 
+datetime="2012-11-25T23:38:01+00:00">1w</time>

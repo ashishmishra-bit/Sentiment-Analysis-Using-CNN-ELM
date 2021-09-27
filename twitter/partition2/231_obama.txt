@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Obama for 4 more years #team #OBAMA #my #President #is #BLACK #JET" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/ef1d020c371f11e2998822000a1fbc5d_7.jpg" />
+    <meta property="og:description" content="calvinkeeper_'s photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdbRvEjlzC/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

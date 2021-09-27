@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Rocking my 99 problems, but mitt ain&#39;t 1 tee: ) #Obama" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.s3.amazonaws.com/a809f732373111e28a3222000a9f17b2_7.jpg" />
+    <meta property="og:description" content="iitsdeebiitch's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sdpy5kkGRT/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

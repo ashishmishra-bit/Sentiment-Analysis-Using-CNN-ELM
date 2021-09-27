@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="ICI C&#39;EST PARIS! #parc #paris #porto #championsleague" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage11.instagram.com/6e1ebdde3e5f11e288f622000a1fbc72_7.jpg" />
+    <meta property="og:description" content="camfournier's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/S1LTK5xzXX/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+camfournier
+Comment: 
+ICI C&#39;EST PARIS! #parc #paris #porto #championsleague
+Comment Time: 
+datetime="2012-12-04T22:10:51+00:00">2d</time>

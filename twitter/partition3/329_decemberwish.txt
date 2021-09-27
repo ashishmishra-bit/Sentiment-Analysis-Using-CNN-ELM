@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Be mine maybe ? #puppy #decemberwish" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.instagram.com/c63a63c83b6311e2b41022000a9f1899_7.jpg" />
+    <meta property="og:description" content="glassfairytale's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SrZtnJRttj/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

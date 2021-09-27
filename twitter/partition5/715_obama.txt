@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="MESSAGE TO THE PRESIDENT AT STARBUCKS - via @MEAN_MARINE"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bggh4m"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bggh4m"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="MESSAGE TO THE PRESIDENT AT STARBUCKS" />
+<meta name="twitter:url" value="https://twitpic.com/bggh4m" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bggh4m.jpg" />
+
+  <meta name="twitter:image:width" value="1280" />
+  <meta name="twitter:image:height" value="960" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@MEAN_MARINE" />
+<meta name="twitter:creator:id" value="191162512" />
+
+
+
+
+<!-- Our Stylesheets -->

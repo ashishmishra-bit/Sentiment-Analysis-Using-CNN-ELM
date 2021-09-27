@@ -1,0 +1,34 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="I&#39;d love another little adventure #Rome #Newyork" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/7017fa54373111e2877122000a1fbc4f_7.jpg" />
+    <meta property="og:description" content="glasperjanelisa's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdpncJC7Q-/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+glasperjanelisa
+Comment: 
+I&#39;d love another little adventure #Rome #Newyork
+Comment Time: 
+datetime="2012-11-25T18:55:01+00:00">1w</time>
+Comment by: 
+glasperjanelisa
+Comment: 
+#bestfriends #Paris #London #holiday
+Comment Time: 
+datetime="2012-11-27T10:19:06+00:00">1w</time>

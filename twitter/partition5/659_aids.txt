@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="AIDS Project Los Angeles World AIDS Day #FoodDrive is this Sat. 12/1 from 10-4pm! More Info: apla.org/fooddrive  - via @lilbernadette"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgqvin"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgqvin"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="AIDS Project Los Angeles World AIDS Day #FoodDrive is this Sat. 12/1 from 10-4pm! More Info: apla.org/fooddrive " />
+<meta name="twitter:url" value="https://twitpic.com/bgqvin" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgqvin.jpg" />
+
+  <meta name="twitter:image:width" value="586" />
+  <meta name="twitter:image:height" value="586" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@lilbernadette" />
+<meta name="twitter:creator:id" value="58754830" />
+
+
+
+
+<!-- Our Stylesheets -->

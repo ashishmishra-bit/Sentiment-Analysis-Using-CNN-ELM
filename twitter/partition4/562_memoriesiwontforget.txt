@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="#MemoriesIWontForget the day me and @SummieStarr went to the mall and had the best day - via @katieepaigebaer"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bhw7ea"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bhw7ea"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="#MemoriesIWontForget the day me and @SummieStarr went to the mall and had the best day" />
+<meta name="twitter:url" value="https://twitpic.com/bhw7ea" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bhw7ea.jpg" />
+
+  <meta name="twitter:image:width" value="1024" />
+  <meta name="twitter:image:height" value="1024" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@katieepaigebaer" />
+<meta name="twitter:creator:id" value="178585638" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="SternShowComiX:Howard AGT Round 2! @MFBrooklyn  #HOWARDSTERN #STERNSHOWCOMIX @zenabuddysgirl @southernjew  - via @DocIvanSFN"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bitj6d"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bitj6d"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="SternShowComiX:Howard AGT Round 2! @MFBrooklyn  #HOWARDSTERN #STERNSHOWCOMIX @zenabuddysgirl @southernjew " />
+<meta name="twitter:url" value="https://twitpic.com/bitj6d" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bitj6d.jpg" />
+
+  <meta name="twitter:image:width" value="800" />
+  <meta name="twitter:image:height" value="750" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@DocIvanSFN" />
+<meta name="twitter:creator:id" value="247577070" />
+
+
+
+
+<!-- Our Stylesheets -->

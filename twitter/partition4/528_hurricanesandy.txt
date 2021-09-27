@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="In Philadelphia ordering pizza! Yum! ✌#Jake&#39;spizza #philadelphia #2012 #food #pizza #menu #hurricanesandy" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.s3.amazonaws.com/5bfc8e2c3a9711e2959322000a1f9d56_7.jpg" />
+    <meta property="og:description" content="livvy_natey's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SoyQYOqoCP/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+livvy_natey
+Comment: 
+In Philadelphia ordering pizza! Yum! ✌#Jake&#39;spizza #philadelphia #2012 #food #pizza #menu #hurricanesandy
+Comment Time: 
+datetime="2012-11-30T02:44:09+00:00">6d</time>

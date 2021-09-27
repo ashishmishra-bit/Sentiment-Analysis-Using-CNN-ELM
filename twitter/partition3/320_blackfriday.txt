@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#AtWork #BlackFriday #HappyHolidays" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/87ace614359911e2a42522000a1f96b3_7.jpg" />
+    <meta property="og:description" content="talishamonique's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SYbdUUjT2g/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+talishamonique
+Comment: 
+#AtWork #BlackFriday #HappyHolidays
+Comment Time: 
+datetime="2012-11-23T18:14:18+00:00">1w</time>

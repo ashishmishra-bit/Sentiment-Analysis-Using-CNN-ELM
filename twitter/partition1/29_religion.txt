@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Religion is Like a Penis &amp; God is the Asshole of the Universe. Happy Int&#039;l Blasphemy Day! - via @religulous"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/6swjca"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/6swjca"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Religion is Like a Penis &amp; God is the Asshole of the Universe. Happy Int&#039;l Blasphemy Day!" />
+<meta name="twitter:url" value="https://twitpic.com/6swjca" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/6swjca.jpg" />
+
+  <meta name="twitter:image:width" value="580" />
+  <meta name="twitter:image:height" value="452" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@religulous" />
+<meta name="twitter:creator:id" value="17502089" />
+
+
+
+
+<!-- Our Stylesheets -->

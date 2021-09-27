@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#beautiful #lovo #my #dog #white #like #android #jj #followme" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage5.s3.amazonaws.com/d6df98c8374f11e29c2822000a1fbe4c_7.jpg" />
+    <meta property="og:description" content="feecrouch's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeChWmQu8l/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+feecrouch
+Comment: 
+#beautiful #lovo #my #dog #white #like #android #jj #followme
+Comment Time: 
+datetime="2012-11-25T22:31:52+00:00">1w</time>

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#cairo #righthererightnow thank you for sharing @ahmed_sadek" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage2.s3.amazonaws.com/df6aea1437be11e2877022000a9f1278_7.jpg" />
+    <meta property="og:description" content="qnet_official's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sfdeswk8VS/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+qnet_official
+Comment: 
+#cairo #righthererightnow thank you for sharing <a href="/ahmed_sadek">@ahmed_sadek</a>
+Comment Time: 
+datetime="2012-11-26T11:47:07+00:00">1w</time>

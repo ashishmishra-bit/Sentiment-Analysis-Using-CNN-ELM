@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="#MemoriesIWontForget ❤ .. #Jemi4Life - via @JemiLoveSparks"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bhvwul"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bhvwul"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="#MemoriesIWontForget ❤ .. #Jemi4Life" />
+<meta name="twitter:url" value="https://twitpic.com/bhvwul" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bhvwul.jpg" />
+
+  <meta name="twitter:image:width" value="500" />
+  <meta name="twitter:image:height" value="500" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@JemiLoveSparks" />
+<meta name="twitter:creator:id" value="527844703" />
+
+
+
+
+<!-- Our Stylesheets -->

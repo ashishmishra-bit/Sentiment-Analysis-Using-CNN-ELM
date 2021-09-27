@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#matthias #church #Budapest #buda #pest #hungary #europe #magyar #architecture #religion #matyas #templom" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage7.s3.amazonaws.com/2fb1c17e37ff11e29d4222000a9e0706_7.jpg" />
+    <meta property="og:description" content="kangaskhan's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SgSKlWNFTH/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+kangaskhan
+Comment: 
+#matthias #church #Budapest #buda #pest #hungary #europe #magyar #architecture #religion #matyas #templom
+Comment Time: 
+datetime="2012-11-26T19:26:43+00:00">1w</time>

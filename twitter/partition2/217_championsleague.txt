@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#galatasaray #championsleague" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage1.instagram.com/915c307a3c0611e29e1622000a9d0ec7_7.jpg" />
+    <meta property="og:description" content="galatasaraaay's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/StfEraxYel/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+galatasaraaay
+Comment: 
+#galatasaray #championsleague
+Comment Time: 
+datetime="2012-12-01T22:29:48+00:00">5d</time>

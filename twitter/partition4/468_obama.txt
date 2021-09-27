@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Hey #tcot #lnyhbt, Remember this?  Thank you George Bush. - via @CoronaRay"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bg3oa1"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bg3oa1"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Hey #tcot #lnyhbt, Remember this?  Thank you George Bush." />
+<meta name="twitter:url" value="https://twitpic.com/bg3oa1" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bg3oa1.jpg" />
+
+  <meta name="twitter:image:width" value="204" />
+  <meta name="twitter:image:height" value="247" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@CoronaRay" />
+<meta name="twitter:creator:id" value="16315197" />
+
+
+
+
+<!-- Our Stylesheets -->

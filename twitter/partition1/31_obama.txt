@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Barack Obama told me to show yall this..  - via @TheRealCTucker"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/71ihfp"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/71ihfp"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Barack Obama told me to show yall this.. " />
+<meta name="twitter:url" value="https://twitpic.com/71ihfp" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/71ihfp.jpg" />
+
+  <meta name="twitter:image:width" value="320" />
+  <meta name="twitter:image:height" value="198" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@TheRealCTucker" />
+<meta name="twitter:creator:id" value="247338186" />
+
+
+
+
+<!-- Our Stylesheets -->

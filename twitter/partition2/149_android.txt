@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="A photo from @Lover1Freedom"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bghpyc"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bghpyc"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="" />
+<meta name="twitter:url" value="https://twitpic.com/bghpyc" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bghpyc.jpg" />
+
+  <meta name="twitter:image:width" value="467" />
+  <meta name="twitter:image:height" value="636" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@Lover1Freedom" />
+<meta name="twitter:creator:id" value="860407873" />
+
+
+
+
+<!-- Our Stylesheets -->

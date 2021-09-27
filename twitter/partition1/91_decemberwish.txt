@@ -1,0 +1,34 @@
+Metadata 
+<meta property="og:title" content=" ☺ ♥ ♪ [♫] 
+#DecemberWish Musik ♪ [♫], Cinta♥ dan Hidup ☺ - via @aryabubakar"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bhuo85"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bhuo85"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value=" ☺ ♥ ♪ [♫] 
+#DecemberWish Musik ♪ [♫], Cinta♥ dan Hidup ☺" />
+<meta name="twitter:url" value="https://twitpic.com/bhuo85" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bhuo85.jpg" />
+
+  <meta name="twitter:image:width" value="500" />
+  <meta name="twitter:image:height" value="340" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@aryabubakar" />
+<meta name="twitter:creator:id" value="406792785" />
+
+
+
+
+<!-- Our Stylesheets -->

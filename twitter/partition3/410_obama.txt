@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Dr. Suess Writes Obama Deficit Reduction Plan ~  - via @ImpeachTheIdiot"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/6nx6mu"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/6nx6mu"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Dr. Suess Writes Obama Deficit Reduction Plan ~ " />
+<meta name="twitter:url" value="https://twitpic.com/6nx6mu" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/6nx6mu.jpg" />
+
+  <meta name="twitter:image:width" value="2640" />
+  <meta name="twitter:image:height" value="1980" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@ImpeachTheIdiot" />
+<meta name="twitter:creator:id" value="84491326" />
+
+
+
+
+<!-- Our Stylesheets -->

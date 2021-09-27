@@ -1,0 +1,36 @@
+Metadata 
+<meta property="og:title" content="http://www.presstv.ir/
+
+#Egyptian #police have clashed with demonstrators in the capital #Cairo protesting for the third consecutive day on November 25, 2012 against a new constitutional declaration that grants the country’s president broad powers.  - via @PressTV"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgg7lx"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgg7lx"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="http://www.presstv.ir/
+
+#Egyptian #police have clashed with demonstrators in the capital #Cairo protesting for the third consecutive day on November 25, 2012 against a new constitutional declaration that grants the country’s president broad powers. " />
+<meta name="twitter:url" value="https://twitpic.com/bgg7lx" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgg7lx.jpg" />
+
+  <meta name="twitter:image:width" value="600" />
+  <meta name="twitter:image:height" value="400" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@PressTV" />
+<meta name="twitter:creator:id" value="192547775" />
+
+
+
+
+<!-- Our Stylesheets -->

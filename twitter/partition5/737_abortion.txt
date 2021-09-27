@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Enda, we need to talk about abortion...... Galway #savita protest" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.instagram.com/1dd1751c3bce11e29c2d22000a1fb70e_7.jpg" />
+    <meta property="og:description" content="pollytix's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Ssw1AKvOWo/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

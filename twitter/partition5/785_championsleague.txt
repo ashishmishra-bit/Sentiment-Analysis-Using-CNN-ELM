@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Amen To That! @spawnio20 #City #CL #ChampionsLeague" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage11.instagram.com/007e18dc3e5b11e29bea22000a1f90d2_7.jpg" />
+    <meta property="og:description" content="ris_pep's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/S1HrAORK63/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+ris_pep
+Comment: 
+Amen To That! <a href="/spawnio20">@spawnio20</a>
+Comment Time: 
+datetime="2012-12-04T21:40:18+00:00">2d</time>

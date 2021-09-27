@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="LMFAO ! 😂😂😂 #titanic #jack #globalwarming" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage11.s3.amazonaws.com/df148456374311e2829522000a1fa769_7.jpg" />
+    <meta property="og:description" content="nestorlokss's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sd4t4_zKo_/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

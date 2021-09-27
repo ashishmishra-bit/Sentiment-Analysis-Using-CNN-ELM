@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="This picture is #Priceless 😂 #GayMarriage" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage2.s3.amazonaws.com/a1f58708376311e29a9c22000a1fbe09_7.jpg" />
+    <meta property="og:description" content="doc_one's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeSvF-S20i/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

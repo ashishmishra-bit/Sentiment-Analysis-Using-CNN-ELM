@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#blackfriday #occupy #ola #tents" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/3b1e539835f111e2979622000a1fb04f_7.jpg" />
+    <meta property="og:description" content="occupyla's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SZjTYIhMUw/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+occupyla
+Comment: 
+#blackfriday #occupy #ola #tents
+Comment Time: 
+datetime="2012-11-24T04:42:26+00:00">1w</time>

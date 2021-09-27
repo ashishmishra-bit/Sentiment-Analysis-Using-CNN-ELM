@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#nyc #sandy #hurricanesandy" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage9.s3.amazonaws.com/8369734e38c611e2926822000a1f9c9b_7.jpg" />
+    <meta property="og:description" content="sarahdoody's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Si1dD2xHdV/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+sarahdoody
+Comment: 
+#nyc #sandy #hurricanesandy
+Comment Time: 
+datetime="2012-11-27T19:13:47+00:00">1w</time>

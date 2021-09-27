@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Jaden! #BlackFriday #Cutays @jadennbarnes ✌" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.s3.amazonaws.com/b7028114374011e2ab6722000a9e087c_7.jpg" />
+    <meta property="og:description" content="hanabaybe's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sd2IZUt8Rb/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+hanabaybe
+Comment: 
+Jaden! #BlackFriday #Cutays <a href="/jadennbarnes">@jadennbarnes</a>
+Comment Time: 
+datetime="2012-11-25T20:43:44+00:00">1w</time>

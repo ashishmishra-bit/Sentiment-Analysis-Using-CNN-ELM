@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#newyork #brooklinbridge #nightime" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage11.s3.amazonaws.com/0979bf70373711e2baac22000a1fbda6_7.jpg" />
+    <meta property="og:description" content="fernandoanton's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SduM_yrc8H/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+fernandoanton
+Comment: 
+#newyork #brooklinbridge #nightime
+Comment Time: 
+datetime="2012-11-25T19:34:27+00:00">1w</time>

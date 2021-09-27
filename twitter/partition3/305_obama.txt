@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="#Aries Obama os invitará a ti y a Niall a conocerle en &#039;la Casa Blanca&#039;. ¿Cómo irás? - via @BeaJackDaniels"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bcy0e9"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bcy0e9"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="#Aries Obama os invitará a ti y a Niall a conocerle en &#039;la Casa Blanca&#039;. ¿Cómo irás?" />
+<meta name="twitter:url" value="https://twitpic.com/bcy0e9" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bcy0e9.jpg" />
+
+  <meta name="twitter:image:width" value="461" />
+  <meta name="twitter:image:height" value="700" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@BeaJackDaniels" />
+<meta name="twitter:creator:id" value="336168166" />
+
+
+
+
+<!-- Our Stylesheets -->

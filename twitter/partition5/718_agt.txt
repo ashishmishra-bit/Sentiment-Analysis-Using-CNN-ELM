@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="A photo from @TaeyangMY"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bdcq9f"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bdcq9f"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="" />
+<meta name="twitter:url" value="https://twitpic.com/bdcq9f" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bdcq9f.jpg" />
+
+  <meta name="twitter:image:width" value="363" />
+  <meta name="twitter:image:height" value="544" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@TaeyangMY" />
+<meta name="twitter:creator:id" value="612510695" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,34 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Brooklyn Bridge #newyork" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/162c1a1c375811e2985c22000a1f9ad3_7.jpg" />
+    <meta property="og:description" content="briannah92390's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeJRv0vRIu/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+briannah92390
+Comment: 
+Brooklyn Bridge #newyork
+Comment Time: 
+datetime="2012-11-25T23:30:25+00:00">1w</time>
+Comment by: 
+briannah92390
+Comment: 
+#brooklynbridge #nyc
+Comment Time: 
+datetime="2012-11-26T11:32:28+00:00">1w</time>

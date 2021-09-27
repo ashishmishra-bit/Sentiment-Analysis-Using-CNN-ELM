@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#DecemberWish Less stress. Less pain. Less problems. More Happiness. More Laugh." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/e87841943b1311e2ac8422000a1fbf16_7.jpg" />
+    <meta property="og:description" content="duuhhrreal's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SqYSUeyACq/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

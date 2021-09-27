@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Oh, heyyyy #Obama. | Samm&#39;s office of #diversity." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage5.s3.amazonaws.com/596327d4373611e2aeb222000a1f9e7e_7.jpg" />
+    <meta property="og:description" content="kholi's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sdto7whe9p/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+kholi
+Comment: 
+Oh, heyyyy #Obama. | Samm&#39;s office of #diversity.
+Comment Time: 
+datetime="2012-11-25T19:34:13+00:00">1w</time>

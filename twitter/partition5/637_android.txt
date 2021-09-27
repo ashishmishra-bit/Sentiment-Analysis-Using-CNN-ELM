@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Só pra quem pode... @WesleySafadao &amp; @GarotaSafada! #app #android" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage0.s3.amazonaws.com/2e031ca0375111e2b1c722000a1fba7b_7.jpg" />
+    <meta property="og:description" content="juliows's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeDnoLjvEE/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+juliows
+Comment: 
+Só pra quem pode... <a href="/WesleySafadao">@WesleySafadao</a>
+Comment Time: 
+datetime="2012-11-25T22:41:53+00:00">1w</time>

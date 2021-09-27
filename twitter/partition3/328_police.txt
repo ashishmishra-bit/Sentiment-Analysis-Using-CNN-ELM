@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="A photo from @mrpetermunro"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bghthd"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bghthd"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="" />
+<meta name="twitter:url" value="https://twitpic.com/bghthd" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bghthd.jpg" />
+
+  <meta name="twitter:image:width" value="600" />
+  <meta name="twitter:image:height" value="800" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@mrpetermunro" />
+<meta name="twitter:creator:id" value="140585655" />
+
+
+
+
+<!-- Our Stylesheets -->

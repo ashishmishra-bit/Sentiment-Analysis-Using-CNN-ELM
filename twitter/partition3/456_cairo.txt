@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="The GOD sent w/ @AhmedComedy" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage9.s3.amazonaws.com/eb4ec8f436b611e2926822000a1f9c9b_7.jpg" />
+    <meta property="og:description" content="edwinsanjuan's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/ScFP7nnYAZ/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+edwinsanjuan
+Comment: 
+The GOD sent w/ <a href="/AhmedComedy">@AhmedComedy</a>
+Comment Time: 
+datetime="2012-11-25T04:17:42+00:00">1w</time>

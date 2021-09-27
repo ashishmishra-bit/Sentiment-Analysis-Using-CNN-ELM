@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="@bigtiggershow Hey Big Bro Please DM Ur Gmail So I Can Send U My New HIV/AIDS Awareness Record I Need An Interview - via @traychaney"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bghjoc"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bghjoc"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="@bigtiggershow Hey Big Bro Please DM Ur Gmail So I Can Send U My New HIV/AIDS Awareness Record I Need An Interview" />
+<meta name="twitter:url" value="https://twitpic.com/bghjoc" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bghjoc.jpg" />
+
+  <meta name="twitter:image:width" value="1600" />
+  <meta name="twitter:image:height" value="1600" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@traychaney" />
+<meta name="twitter:creator:id" value="22433978" />
+
+
+
+
+<!-- Our Stylesheets -->

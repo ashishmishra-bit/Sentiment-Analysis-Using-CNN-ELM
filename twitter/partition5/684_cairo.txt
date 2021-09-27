@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="pantallazo a la trasmisión en directo desde la plaza #Tahrir en el Cairo #egipto http://reuters.livestation.com/demo - via @perro_darwin"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgzh82"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgzh82"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="pantallazo a la trasmisión en directo desde la plaza #Tahrir en el Cairo #egipto http://reuters.livestation.com/demo" />
+<meta name="twitter:url" value="https://twitpic.com/bgzh82" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgzh82.jpg" />
+
+  <meta name="twitter:image:width" value="639" />
+  <meta name="twitter:image:height" value="379" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@perro_darwin" />
+<meta name="twitter:creator:id" value="335217948" />
+
+
+
+
+<!-- Our Stylesheets -->

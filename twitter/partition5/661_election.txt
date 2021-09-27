@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Hunting Trophy &quot;just kept SWELLING, poor varMITT! @exposeLiberal @co2hog #P2 #tcot #teaparty #gop #DEMS #LIBERAL - via @BardOfEarth"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bcl09r"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bcl09r"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Hunting Trophy &quot;just kept SWELLING, poor varMITT! @exposeLiberal @co2hog #P2 #tcot #teaparty #gop #DEMS #LIBERAL" />
+<meta name="twitter:url" value="https://twitpic.com/bcl09r" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bcl09r.jpg" />
+
+  <meta name="twitter:image:width" value="580" />
+  <meta name="twitter:image:height" value="324" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@BardOfEarth" />
+<meta name="twitter:creator:id" value="49725600" />
+
+
+
+
+<!-- Our Stylesheets -->

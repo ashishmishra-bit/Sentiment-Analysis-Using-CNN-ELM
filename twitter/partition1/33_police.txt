@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="The Police man who captured my heart ;)) #instalove" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage5.s3.amazonaws.com/2057698e370211e2af9022000a1f9a23_7.jpg" />
+    <meta property="og:description" content="jajanicakes's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdC29ANL4x/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

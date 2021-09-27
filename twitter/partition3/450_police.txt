@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="This is our very diverse farm. We use police cars, breed giraffes and even hire our staff from space" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage11.s3.amazonaws.com/d7ad5a30372511e2837022000a1fa4bb_7.jpg" />
+    <meta property="og:description" content="kezza_omg's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdgHgkJYFv/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

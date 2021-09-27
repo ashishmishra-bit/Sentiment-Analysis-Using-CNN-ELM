@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="How to dress when meeting the Prime Minister of Canada - via @9GAGTweets"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgb3a5"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgb3a5"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="How to dress when meeting the Prime Minister of Canada" />
+<meta name="twitter:url" value="https://twitpic.com/bgb3a5" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgb3a5.jpg" />
+
+  <meta name="twitter:image:width" value="700" />
+  <meta name="twitter:image:height" value="516" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@9GAGTweets" />
+<meta name="twitter:creator:id" value="471022109" />
+
+
+
+
+<!-- Our Stylesheets -->

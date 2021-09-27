@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Why couldn&#039;t this movie be my birthday gift? *reproachful look* @RealHughJackman #decemberwish - via @muffin_says"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bii6sa"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bii6sa"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Why couldn&#039;t this movie be my birthday gift? *reproachful look* @RealHughJackman #decemberwish" />
+<meta name="twitter:url" value="https://twitpic.com/bii6sa" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bii6sa.jpg" />
+
+  <meta name="twitter:image:width" value="396" />
+  <meta name="twitter:image:height" value="720" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@muffin_says" />
+<meta name="twitter:creator:id" value="166134978" />
+
+
+
+
+<!-- Our Stylesheets -->

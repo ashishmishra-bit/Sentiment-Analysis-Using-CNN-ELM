@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="RT @PhonseeMac RT #HeyBoo&quot;@_YouLoveShauna_: I need a cancer bf. We&#039;d be perfect for each other.&quot;   - via @CeJota315"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgfdzn"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgfdzn"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="RT @PhonseeMac RT #HeyBoo&quot;@_YouLoveShauna_: I need a cancer bf. We&#039;d be perfect for each other.&quot;  " />
+<meta name="twitter:url" value="https://twitpic.com/bgfdzn" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgfdzn.jpg" />
+
+  <meta name="twitter:image:width" value="1536" />
+  <meta name="twitter:image:height" value="2048" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@CeJota315" />
+<meta name="twitter:creator:id" value="428152581" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Fazer o que agt não escolhe" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage2.s3.amazonaws.com/32adc52c371811e2b23022000a1fc30c_7.jpg" />
+    <meta property="og:description" content="paulosiilva's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdU8JWRKte/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+paulosiilva
+Comment: 
+Fazer o que agt não escolhe
+Comment Time: 
+datetime="2012-11-25T15:53:08+00:00">1w</time>

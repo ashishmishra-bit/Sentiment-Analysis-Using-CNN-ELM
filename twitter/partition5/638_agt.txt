@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="- Talvez nao seje nessa vida ainda mas vc ainda vai ser a minha vida entao agt vai fugir pro mar e eu vou pedir pra namorar vc vai me dizer que vai pensar e no fim vai deixar (8)" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage4.instagram.com/1c00ce2a3e5f11e29ca422000a1fb149_7.jpg" />
+    <meta property="og:description" content="tephaborges's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/S1LCWllB4c/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

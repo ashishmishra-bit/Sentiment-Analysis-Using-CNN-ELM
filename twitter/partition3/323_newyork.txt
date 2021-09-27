@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Merci le vol retardé. #nyc #newyork #standardhotel" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage9.s3.amazonaws.com/2301d8b2375311e2935222000a1fb825_7.jpg" />
+    <meta property="og:description" content="mhcestmoi's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeFOPAki1p/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+mhcestmoi
+Comment: 
+Merci le vol retardé. #nyc #newyork #standardhotel
+Comment Time: 
+datetime="2012-11-25T22:54:59+00:00">1w</time>

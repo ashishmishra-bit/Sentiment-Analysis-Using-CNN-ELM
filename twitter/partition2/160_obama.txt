@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#Obama approves #WhoDat Love" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage4.s3.amazonaws.com/82078688371f11e2af8422000a9e28e9_7.jpg" />
+    <meta property="og:description" content="godsglamgirls's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sda7ZRtNpE/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+godsglamgirls
+Comment: 
+#Obama approves #WhoDat Love
+Comment Time: 
+datetime="2012-11-25T16:45:56+00:00">1w</time>

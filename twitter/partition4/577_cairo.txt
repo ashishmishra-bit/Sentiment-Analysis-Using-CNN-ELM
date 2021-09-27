@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Coolin&#39; with Cairo at the cribo. When I first came back from thanksgiving for 4 days!" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage8.s3.amazonaws.com/527bc8f838cc11e2a12822000a9f18f6_7.jpg" />
+    <meta property="og:description" content="theleague1906's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Si6NnMr2H8/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

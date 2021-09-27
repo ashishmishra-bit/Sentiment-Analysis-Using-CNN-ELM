@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="@mike_guerin casually walking out with an open box TV #blackfriday" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/0f77bc18374811e2be0d22000a9f14df_7.jpg" />
+    <meta property="og:description" content="markyguerin's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sd8Jg2zNrS/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+markyguerin
+Comment: 
+<a href="/mike_guerin">@mike_guerin</a>
+Comment Time: 
+datetime="2012-11-25T21:36:29+00:00">1w</time>

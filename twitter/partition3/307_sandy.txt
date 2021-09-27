@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Rainbow over today&#039;s #NYC sky offers glimpse of hope after Hurricane #Sandy. - via @isardasorensen"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/b8tths"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/b8tths"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Rainbow over today&#039;s #NYC sky offers glimpse of hope after Hurricane #Sandy." />
+<meta name="twitter:url" value="https://twitpic.com/b8tths" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/b8tths.jpg" />
+
+  <meta name="twitter:image:width" value="704" />
+  <meta name="twitter:image:height" value="460" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@isardasorensen" />
+<meta name="twitter:creator:id" value="19949151" />
+
+
+
+
+<!-- Our Stylesheets -->

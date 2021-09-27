@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#Xmas lights are up; will most likely add some more. #LoveTheHolidays" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage7.s3.amazonaws.com/e8265926377411e2a63622000a9e28ec_7.jpg" />
+    <meta property="og:description" content="gzimmerman's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Seg4wdvOBj/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+gzimmerman
+Comment: 
+#Xmas lights are up; will most likely add some more. #LoveTheHolidays
+Comment Time: 
+datetime="2012-11-26T02:58:57+00:00">1w</time>

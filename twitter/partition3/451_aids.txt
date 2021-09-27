@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="A photo from @SungJae_fanbase"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgpcc2"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgpcc2"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="" />
+<meta name="twitter:url" value="https://twitpic.com/bgpcc2" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgpcc2.jpg" />
+
+  <meta name="twitter:image:width" value="690" />
+  <meta name="twitter:image:height" value="460" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@SungJae_fanbase" />
+<meta name="twitter:creator:id" value="545492226" />
+
+
+
+
+<!-- Our Stylesheets -->

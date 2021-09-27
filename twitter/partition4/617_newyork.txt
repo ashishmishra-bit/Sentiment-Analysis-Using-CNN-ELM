@@ -1,0 +1,32 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="New York Style Cheese Cake. Always a winner with this guy!
+
+#food #dessert #newyork #cheesecake #cake #raspberry" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/128ac5d2373c11e2949722000a1f90e1_7.jpg" />
+    <meta property="og:description" content="ricoguz's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdyU_1l2DG/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+ricoguz
+Comment: 
+New York Style Cheese Cake. Always a winner with this guy!
+
+#food #dessert #newyork #cheesecake #cake #raspberry
+Comment Time: 
+datetime="2012-11-25T20:11:17+00:00">1w</time>

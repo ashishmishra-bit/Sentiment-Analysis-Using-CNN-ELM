@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="My Plate In Clay Class! #MarriageEquality #gaymarriage #lesbians #gays" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage10.s3.amazonaws.com/d32b3dfe37e011e2b3f322000a1f96e5_7.jpg" />
+    <meta property="og:description" content="fashionor_die's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sf5SxTiAaK/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Obama is such a &quot;Nice Guy.&quot; Just look at how much he cares about American Citizens. #tcot #NDAAruling  - via @CandiLissa"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/b0qygs"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/b0qygs"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Obama is such a &quot;Nice Guy.&quot; Just look at how much he cares about American Citizens. #tcot #NDAAruling " />
+<meta name="twitter:url" value="https://twitpic.com/b0qygs" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/b0qygs.jpg" />
+
+  <meta name="twitter:image:width" value="440" />
+  <meta name="twitter:image:height" value="440" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@CandiLissa" />
+<meta name="twitter:creator:id" value="169946007" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#cinnabon #cairo #egypt" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.s3.amazonaws.com/c8f5db1e36e111e2ab6722000a1e8bb3_7.jpg" />
+    <meta property="og:description" content="ajenkfrei's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/ScoXVboLDX/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+ajenkfrei
+Comment: 
+#cinnabon #cairo #egypt
+Comment Time: 
+datetime="2012-11-25T09:24:31+00:00">1w</time>

@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="What an amazing long weekend it has been...from #Thanksgiving to #BlackFriday then #Friendsgiving and finally #SundayFunday @cgzein @typhara @bellastassi @rainbowsprinkles80 @dashira03 @mads76123 @ralphiefbaby @haymrd very thankful for it all!" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/dd64ef76375a11e2b12d22000a9e295b_7.jpg" />
+    <meta property="og:description" content="azein32's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeLjZ9kxCG/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

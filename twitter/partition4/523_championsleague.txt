@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="This is raw. #soccer #championsleague #bvb" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage2.instagram.com/1fdbe8743e5311e2aee522000a9f15b9_7.jpg" />
+    <meta property="og:description" content="eduardorios1129's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/S1BN_wlzHC/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+eduardorios1129
+Comment: 
+This is raw. #soccer #championsleague #bvb
+Comment Time: 
+datetime="2012-12-04T20:43:01+00:00">2d</time>

@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="A photo from @Amazing_Bro"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgnxvu"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgnxvu"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="" />
+<meta name="twitter:url" value="https://twitpic.com/bgnxvu" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgnxvu.jpg" />
+
+  <meta name="twitter:image:width" value="1600" />
+  <meta name="twitter:image:height" value="1084" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@Amazing_Bro" />
+<meta name="twitter:creator:id" value="618930654" />
+
+
+
+
+<!-- Our Stylesheets -->

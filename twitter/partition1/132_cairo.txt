@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Protesters run from riot police during clashes at Tahrir square in Cairo November 23, 2012 #Egypt - via @Occupy2gether"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bfzljy"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bfzljy"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Protesters run from riot police during clashes at Tahrir square in Cairo November 23, 2012 #Egypt" />
+<meta name="twitter:url" value="https://twitpic.com/bfzljy" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bfzljy.jpg" />
+
+  <meta name="twitter:image:width" value="460" />
+  <meta name="twitter:image:height" value="327" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@Occupy2gether" />
+<meta name="twitter:creator:id" value="256042519" />
+
+
+
+
+<!-- Our Stylesheets -->

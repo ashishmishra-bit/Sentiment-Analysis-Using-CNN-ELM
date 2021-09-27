@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Day on the river #roadrapers #imonaboat #85degrees #itsnovember? #globalwarming #brudders" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage5.s3.amazonaws.com/4f539594372c11e2901022000a9e13ab_7.jpg" />
+    <meta property="og:description" content="theonlychassie's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdlaldO-XV/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

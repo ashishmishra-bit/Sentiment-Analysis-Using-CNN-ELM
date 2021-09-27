@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="I&#039;ve become lost in an anti-Obama FB page that one of my cousins &quot;liked&quot;. I love that this guy&#039;s name is Joe Dirt.  - via @linzsports"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgetso"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgetso"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="I&#039;ve become lost in an anti-Obama FB page that one of my cousins &quot;liked&quot;. I love that this guy&#039;s name is Joe Dirt. " />
+<meta name="twitter:url" value="https://twitpic.com/bgetso" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgetso.jpg" />
+
+  <meta name="twitter:image:width" value="306" />
+  <meta name="twitter:image:height" value="99" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@linzsports" />
+<meta name="twitter:creator:id" value="105707045" />
+
+
+
+
+<!-- Our Stylesheets -->

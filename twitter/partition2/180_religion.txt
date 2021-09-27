@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Relationship &gt; Religion. Good morning :)" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage9.s3.amazonaws.com/69665714371d11e2a64f22000a1f968e_7.jpg" />
+    <meta property="og:description" content="camille4christ's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdZNfhKz-Z/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+camille4christ
+Comment: 
+Relationship &gt; Religion. Good morning :)
+Comment Time: 
+datetime="2012-11-25T16:32:01+00:00">1w</time>

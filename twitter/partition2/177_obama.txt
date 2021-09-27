@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#steelers #steelernation #obama" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage5.s3.amazonaws.com/ff8734b6371811e28d2722000a1f8fa0_7.jpg" />
+    <meta property="og:description" content="badasskelly's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdVmGEl_A1/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

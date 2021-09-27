@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Tyrequek Zimmerman has gotten really big in the last week." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage10.s3.amazonaws.com/f9bd191a3a5b11e2af0122000a1fbc9e_7.jpg" />
+    <meta property="og:description" content="brandonsprague's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SoBm9TrzRK/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+brandonsprague
+Comment: 
+Tyrequek Zimmerman has gotten really big in the last week.
+Comment Time: 
+datetime="2012-11-29T19:36:34+00:00">1w</time>

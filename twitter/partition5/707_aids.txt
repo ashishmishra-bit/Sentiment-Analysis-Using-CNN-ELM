@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="World AIDS Day is 12/1... Or 11/29 at CCC! #worldAIDSday #makeadifference" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage6.s3.amazonaws.com/0e9b5d3a374e11e2957d22000a1fa40f_7.jpg" />
+    <meta property="og:description" content="seblagg415's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SeBD6WP4U-/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

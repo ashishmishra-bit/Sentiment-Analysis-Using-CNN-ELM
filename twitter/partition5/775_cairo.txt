@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="The best night ever :D" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage0.s3.amazonaws.com/e73cfa6c370911e2996722000a9f18fe_7.jpg" />
+    <meta property="og:description" content="amirzslim's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdJOsELXNA/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+amirzslim
+Comment: 
+The best night ever :D
+Comment Time: 
+datetime="2012-11-25T14:11:12+00:00">1w</time>

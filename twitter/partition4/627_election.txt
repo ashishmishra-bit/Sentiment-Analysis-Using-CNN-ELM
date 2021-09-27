@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="I can tell election season is over because my home is not cluttered and I have time for hobbies." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage1.s3.amazonaws.com/e151bf02383511e287f422000a1f9afa_7.jpg" />
+    <meta property="og:description" content="jnd628's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sg--HfTXuN/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+jnd628
+Comment: 
+I can tell election season is over because my home is not cluttered and I have time for hobbies.
+Comment Time: 
+datetime="2012-11-27T01:58:37+00:00">1w</time>

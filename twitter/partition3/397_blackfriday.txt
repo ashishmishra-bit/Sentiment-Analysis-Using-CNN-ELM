@@ -1,0 +1,23 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="Fuck you Black Friday 🌵 #picstitch #retaillife #blackfriday #trashed #hustle #work" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage5.s3.amazonaws.com/ec2bdd78374411e2a4da22000a1f9253_7.jpg" />
+    <meta property="og:description" content="ogadrian's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sd5k_-seZx/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    

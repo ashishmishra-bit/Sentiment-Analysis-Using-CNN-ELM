@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Amjed Ullah Khan (Corporator) at Kachguda Police Station - via @amjedmbt"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bg4dnz"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bg4dnz"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Amjed Ullah Khan (Corporator) at Kachguda Police Station" />
+<meta name="twitter:url" value="https://twitpic.com/bg4dnz" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bg4dnz.jpg" />
+
+  <meta name="twitter:image:width" value="540" />
+  <meta name="twitter:image:height" value="720" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@amjedmbt" />
+<meta name="twitter:creator:id" value="99660394" />
+
+
+
+
+<!-- Our Stylesheets -->

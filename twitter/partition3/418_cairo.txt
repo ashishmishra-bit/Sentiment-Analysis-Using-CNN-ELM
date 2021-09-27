@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="another pic: clashes between opponents of President Morsi and security forces near US embassy, Cairo Egypt Nov 25 - via @khalidkhan787"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bge49a"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bge49a"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="another pic: clashes between opponents of President Morsi and security forces near US embassy, Cairo Egypt Nov 25" />
+<meta name="twitter:url" value="https://twitpic.com/bge49a" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bge49a.jpg" />
+
+  <meta name="twitter:image:width" value="800" />
+  <meta name="twitter:image:height" value="568" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@khalidkhan787" />
+<meta name="twitter:creator:id" value="44938320" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="feels good to be back at church. #church #religion #God" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage1.s3.amazonaws.com/eb050b7c370311e2ba2422000a1f9376_7.jpg" />
+    <meta property="og:description" content="katycjones's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SdEU5COUJF/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+katycjones
+Comment: 
+feels good to be back at church. #church #religion #God
+Comment Time: 
+datetime="2012-11-25T13:28:11+00:00">1w</time>

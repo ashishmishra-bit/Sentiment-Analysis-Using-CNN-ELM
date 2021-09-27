@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="121126 beautiful Sung Jae at 2012 AIDS Campaign Concert cr: _mayboy - via @beloved_SungJae"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bgnuz6"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bgnuz6"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="121126 beautiful Sung Jae at 2012 AIDS Campaign Concert cr: _mayboy" />
+<meta name="twitter:url" value="https://twitpic.com/bgnuz6" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bgnuz6.jpg" />
+
+  <meta name="twitter:image:width" value="600" />
+  <meta name="twitter:image:height" value="600" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@beloved_SungJae" />
+<meta name="twitter:creator:id" value="577256060" />
+
+
+
+
+<!-- Our Stylesheets -->

@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="One good thing to come out of the election is Doom Paul. - via @PresidentChoom"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bhbsus"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bhbsus"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="One good thing to come out of the election is Doom Paul." />
+<meta name="twitter:url" value="https://twitpic.com/bhbsus" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bhbsus.jpg" />
+
+  <meta name="twitter:image:width" value="884" />
+  <meta name="twitter:image:height" value="666" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@PresidentChoom" />
+<meta name="twitter:creator:id" value="600258838" />
+
+
+
+
+<!-- Our Stylesheets -->

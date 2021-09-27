@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="I just voted in my first run-off election for Mayor of North Little Rock." />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage3.s3.amazonaws.com/3f10e1a238f111e29c2d22000a1fb70e_7.jpg" />
+    <meta property="og:description" content="talltayc's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/SjYdgHhb3T/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+talltayc
+Comment: 
+I just voted in my first run-off election for Mayor of North Little Rock.
+Comment Time: 
+datetime="2012-11-28T00:20:32+00:00">1w</time>

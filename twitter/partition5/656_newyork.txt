@@ -1,0 +1,28 @@
+Metadata 
+<meta property="twitter:card" content="photo" />
+    
+    <meta property="twitter:title" content="#CarmeloAnthony #7 #NewYork #Knicks" />
+    
+    <meta property="twitter:site" content="@instagram" />
+    <meta property="twitter:description" content="" />
+
+    <meta property="og:site_name" content="Instagram" />
+    <meta property="og:title" content="" />
+    <meta property="og:image" content="http://distilleryimage2.s3.amazonaws.com/5fd57240374811e2901122000a9f1939_7.jpg" />
+    <meta property="og:description" content="carlos_breezy15's photo on Instagram">
+    <meta property="og:determiner" content="a" />
+    <meta property="fb:app_id" content="124024574287414" />
+    <meta property="og:url" content="http://instagram.com/p/Sd8Z-NE7hO/" />
+    <meta property="og:type" content="instapp:photo" />
+
+
+
+    
+
+    
+    Comment by: 
+carlos_breezy15
+Comment: 
+#CarmeloAnthony #7 #NewYork #Knicks
+Comment Time: 
+datetime="2012-11-25T21:39:14+00:00">1w</time>

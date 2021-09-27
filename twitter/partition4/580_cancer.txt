@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="Bradley, a little monster, was diagnosed with cancer today. Let&#039;s pray for him! #PrayForBradley - via @tobeymonster"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/8rk5gg"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/8rk5gg"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="Bradley, a little monster, was diagnosed with cancer today. Let&#039;s pray for him! #PrayForBradley" />
+<meta name="twitter:url" value="https://twitpic.com/8rk5gg" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/8rk5gg.jpg" />
+
+  <meta name="twitter:image:width" value="439" />
+  <meta name="twitter:image:height" value="590" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@tobeymonster" />
+<meta name="twitter:creator:id" value="227568015" />
+
+
+
+
+<!-- Our Stylesheets -->

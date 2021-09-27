@@ -1,0 +1,32 @@
+Metadata 
+<meta property="og:title" content="The first kiss. #MemoriesIWontForget #Friends  - via @quote_friends"/>
+
+<meta property="og:type" content="twitpicfbapp:photo" />
+<meta property="og:url" content="http://twitpic.com/bhv1lx"/>
+<meta property="og:image" content="http://twitpic.com/show/thumb/bhv1lx"/>
+
+<meta property="og:site_name" content="TwitPic"/>
+<meta property="fb:app_id" content="331538683530736" />
+
+<!-- Twitter Cards -->
+
+  <meta name="twitter:card" value="photo" />
+
+<meta name="twitter:title" value="" />
+<meta name="twitter:description" value="The first kiss. #MemoriesIWontForget #Friends " />
+<meta name="twitter:url" value="https://twitpic.com/bhv1lx" />
+<meta name="twitter:image" value="https://twitpic.com/show/large/bhv1lx.jpg" />
+
+  <meta name="twitter:image:width" value="480" />
+  <meta name="twitter:image:height" value="360" />
+
+
+<meta name="twitter:site" value="@twitpic" />
+<meta name="twitter:site:id" value="12925072" />
+<meta name="twitter:creator" value="@quote_friends" />
+<meta name="twitter:creator:id" value="197264075" />
+
+
+
+
+<!-- Our Stylesheets -->
